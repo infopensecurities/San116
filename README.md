@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shiva Teja</h1>
-<h3 align="center">Cyber Security Enthusiast And Experienced Ethical hacker with ability to learn and apply critical thinking to a variety of situations, Fast learner who believes in accepting challenges and learn from past experiences. I'm skilled at doing Web Application Penetration Testing, Vulnerability Assessment, Application Security Testing and Network Pentesting.</h3>
-<img align="right" alt="Coding" width="400" src="https://unsplash.com/photos/closeup-photo-of-eyeglasses-w7ZyuGYNpRQ">
-
+<h3 align="center">Cyber Security Enthusiast And Experienced Ethical hacker with ability to learn and apply critical thinking to a variety of situations, Fast learner who believes in accepting challenges and learn from past experiences.</h3>
+<img align="left" alt="Coding" width="400" src="https://unsplash.com/photos/closeup-photo-of-eyeglasses-w7ZyuGYNpRQ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=infopensecurities&label=Profile%20views&color=0e75b6&style=flat" alt="infopensecurities" /> </p>
 
