@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shiva Teja</h1>
-<h3 align="center">Cyber Security Enthusiast And Experienced Ethical hacker with ability to learn and apply critical thinking to a variety of situations, Fast learner who believes in accepting challenges and learn from past experiences.</h3>
-<img align="left" alt="Coding" width="400" src="https://unsplash.com/photos/closeup-photo-of-eyeglasses-w7ZyuGYNpRQ">
+<h3 align="center">Cyber Security Enthusiast And Experienced Ethical hacker who can learn and apply critical thinking to various situations, a Fast learner who believes in accepting challenges and learning from past experiences.</h3>
+<img align="left" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3575kYn2DPYH3ez2y-yctT&ust=1698580832960000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDcvuvYmIIDFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=infopensecurities&label=Profile%20views&color=0e75b6&style=flat" alt="infopensecurities" /> </p>
 
